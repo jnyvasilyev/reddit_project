@@ -1,6 +1,8 @@
 # Networks and Dynamics of Reddit Political Discussion
 
-This repo is for archival purposes. Thank you to Melissa Yang (melissayang@utexas.edu) for working with me on this project.
+This repo is for archival purposes and contains the code submitted for our project. Thank you to Melissa Yang (melissayang@utexas.edu) for working with me on this project.
+
+**Notebooks are not well commented due to nature of project instructions. Read the final report linked at the bottom to understand the code.**
 
 `data` folder contains scripts and files necessary to generate final semi-bipartite graph
 
